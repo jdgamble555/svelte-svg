@@ -1,4 +1,4 @@
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/jdgamble555/svelte-svg)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/jdgamble555/svelte-svg?file=src%2Froutes%2F%2Bpage.svelte)
 
 
 # create-svelte
